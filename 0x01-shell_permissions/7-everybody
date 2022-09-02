@@ -1,3 +1,2 @@
 #!/bin/bash
-chod a+x ./ hello
 chmod a+x ./ hello
