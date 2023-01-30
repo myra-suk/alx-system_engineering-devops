@@ -2,7 +2,9 @@
 # Displays "To infinity and beyond" indefinitely with
 #+ a sleep 2 in between each iteration.
 
-while true
+m = 0
+
+while [ $m ]
 do
   echo "To infinity and beyond"
   sleep 2
