@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Starts up the Apache web service and return a page Hello Holberton
+sudo service apache2 start
